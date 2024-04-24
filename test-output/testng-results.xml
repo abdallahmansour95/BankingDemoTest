@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="5" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-24T13:53:18 TRT" name="Default suite" finished-at="2024-04-24T13:53:48 TRT" duration-ms="30014">
+    <groups>
+    </groups>
+    <test started-at="2024-04-24T13:53:18 TRT" name="Default test" finished-at="2024-04-24T13:53:48 TRT" duration-ms="30014">
+      <class name="bankingPackage.BankingTestCases">
+        <test-method is-config="true" signature="mySetup()[pri:0, instance:bankingPackage.BankingTestCases@7ca33c24]" started-at="2024-04-24T13:53:18 TRT" name="mySetup" finished-at="2024-04-24T13:53:20 TRT" duration-ms="2404" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySetup -->
+        <test-method signature="customerTest()[pri:1, instance:bankingPackage.BankingTestCases@7ca33c24]" started-at="2024-04-24T13:53:20 TRT" name="customerTest" finished-at="2024-04-24T13:53:27 TRT" duration-ms="6832" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customerTest -->
+        <test-method signature="addDeposit()[pri:2, instance:bankingPackage.BankingTestCases@7ca33c24]" started-at="2024-04-24T13:53:27 TRT" name="addDeposit" finished-at="2024-04-24T13:53:48 TRT" duration-ms="20694" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addDeposit -->
+      </class> <!-- bankingPackage.BankingTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
